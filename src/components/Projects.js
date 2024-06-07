@@ -115,7 +115,7 @@ function Projects() {
           <Carousel.Caption className='desc-carousel'>
             <h5>Mutualista gestion pacientes </h5>
             <p>JS - BOOTSTRAP</p>
-            <Link to='https://www.crystalnails.com.uy/' target='blank'>
+            <Link to='https://mutualista.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
             </Link>
           </Carousel.Caption>
