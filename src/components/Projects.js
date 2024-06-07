@@ -24,7 +24,7 @@ function Projects() {
           <Carousel.Caption className='desc-carousel'>
             <h5>Beautiful Nails by Jime Robert</h5>
             <p>WEB React JS</p>
-            <Link to='https://beatifulnails.netlify.app/' target='blank'>
+            <Link to='https://beautifulnails.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
             </Link>
           </Carousel.Caption>
