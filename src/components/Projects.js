@@ -39,7 +39,7 @@ function Projects() {
           <Carousel.Caption className='desc-carousel'>
             <h5>Reserva Natural</h5>
             <p>WEB bootstrap</p>
-            <Link to='https://www.crystalnails.com.uy/' target='blank'>
+            <Link to='https://reservaquetzal.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
             </Link>
           </Carousel.Caption>
