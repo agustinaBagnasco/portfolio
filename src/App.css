@@ -87,7 +87,6 @@ h3 {
   border-radius: 20px;
   box-shadow: 20px 20px #0000003a;
   margin: 0px;
-  border: solid 2px blue;
 }
 
 .desc-carousel {
@@ -96,7 +95,6 @@ h3 {
   padding: 0;  
   border-radius: 10px;
   margin: 0;
-  border: solid 2px red;
 }
 
 .tecno {
@@ -121,6 +119,7 @@ h3 {
   }
   .desc-carousel {
     font-size:small;
+    margin: 0;
   }
   .img-carousel {
     width: 100%;

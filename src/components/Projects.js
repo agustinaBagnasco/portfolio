@@ -22,7 +22,7 @@ function Projects() {
             alt='Logo Beatiful Nails'
           />
           <Carousel.Caption className='desc-carousel'>
-            <h5>Beautiful Nails by Jime Robert</h5>
+            <h6>Beautiful Nails by Jime Robert</h6>
             <p>WEB React JS</p>
             <Link to='https://beautifulnails.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
@@ -37,7 +37,7 @@ function Projects() {
             alt='Logo Beatiful Nails'
           />
           <Carousel.Caption className='desc-carousel'>
-            <h5>Reserva Natural</h5>
+            <h6>Reserva Natural</h6>
             <p>WEB bootstrap</p>
             <Link to='https://reservaquetzal.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
@@ -52,7 +52,7 @@ function Projects() {
             alt='Logo Beatiful Nails'
           />
           <Carousel.Caption className='desc-carousel'>
-            <h5>IMAC: Importacion de Asientos Contables</h5>
+            <h6>IMAC: Importacion de Asientos Contables</h6>
             <p>HTML - CSS - JS - BOOTSTRAP</p>
             <Link to='https://www.crystalnails.com.uy/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
@@ -67,7 +67,7 @@ function Projects() {
             alt='Logo Beatiful Nails'
           />
           <Carousel.Caption className='desc-carousel'>
-            <h5>GiSa - Accesorios y bisuteria</h5>
+            <h6>GiSa - Accesorios y bisuteria</h6>
             <p>WEB - React JS</p>
             <Link to='https://www.crystalnails.com.uy/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
@@ -82,7 +82,7 @@ function Projects() {
             alt='Logo Beatiful Nails'
           />
           <Carousel.Caption className='desc-carousel'>
-            <h5>Secret Santa - intercambio de obsequios</h5>
+            <h6>Secret Santa - intercambio de obsequios</h6>
             <p>HTML - CSS - JS - BOOTSTRAP</p>
             <Link to='https://secretsantaaa.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
@@ -97,7 +97,7 @@ function Projects() {
             alt='Logo Beatiful Nails'
           />
           <Carousel.Caption className='desc-carousel'>
-            <h5>Agencia de Viajes</h5>
+            <h6>Agencia de Viajes</h6>
             <p>React JS - JAVA</p>
             <Link to='https://www.crystalnails.com.uy/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
@@ -113,7 +113,7 @@ function Projects() {
             alt='Logo Beatiful Nails'
           />
           <Carousel.Caption className='desc-carousel'>
-            <h5>Mutualista gestion pacientes </h5>
+            <h6>Mutualista gestion pacientes </h6>
             <p>JS - BOOTSTRAP</p>
             <Link to='https://mutualista.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
@@ -128,7 +128,7 @@ function Projects() {
             alt='Logo Beatiful Nails'
           />
           <Carousel.Caption className='desc-carousel'>
-            <h5>Sudoku</h5>
+            <h6>Sudoku</h6>
             <p>JS - BOOTSTRAP</p>
             <Link to='https://www.crystalnails.com.uy/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
