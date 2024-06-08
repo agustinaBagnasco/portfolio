@@ -26,7 +26,7 @@ function IconInfo() {
                     src={LittleGit}
                     alt='Logo Github' />
             </Link>
-            <Link to={cv} download={'Agustina_Bagnasco_CV'}  className='icon' title='Descargar CV'>
+            <Link to={cv} download={'Agustina_Bagnasco_CV'} target='blank' className='icon' title='Descargar CV'>
                 <img
                     src={Cv}
                     alt='Logo Curriculum Vitae' />
