@@ -7,7 +7,7 @@ import gisa from '../img/gisa.png'
 import secret from '../img/secret.jpg'
 import agencia from '../img/agencia.jpg'
 import salud from '../img/salud.jpg'
-import sudoku from '../img/sudoku.png'
+//import sudoku from '../img/sudoku.png'
 import { Link } from 'react-router-dom'
 
 function Projects() {
@@ -121,7 +121,7 @@ function Projects() {
           </Carousel.Caption>
         </Carousel.Item>
 
-        <Carousel.Item className='item-carousel'>
+        {/* <Carousel.Item className='item-carousel'>
           <img
             className="img-carousel"
             src={sudoku}
@@ -134,7 +134,7 @@ function Projects() {
               <button className='btn btn-outline-dark'>Visitar</button>
             </Link>
           </Carousel.Caption>
-        </Carousel.Item>
+        </Carousel.Item> */}
       </Carousel>
 
     </>
