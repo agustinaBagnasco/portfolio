@@ -69,7 +69,7 @@ function Projects() {
           <Carousel.Caption className='desc-carousel'>
             <h6>GiSa - Accesorios y bisuteria</h6>
             <p>WEB - React JS</p>
-            <Link to='https://www.crystalnails.com.uy/' target='blank'>
+            <Link to='https://gisa.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
             </Link>
           </Carousel.Caption>
