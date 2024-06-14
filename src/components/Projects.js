@@ -84,7 +84,7 @@ function Projects() {
           <Carousel.Caption className='desc-carousel'>
             <h6>Secret Santa - intercambio de obsequios</h6>
             <p>HTML - CSS - JS - BOOTSTRAP</p>
-            <Link to='https://secretsantaaa.netlify.app/' target='blank'>
+            <Link to='https://santasecreto.netlify.app/' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
             </Link>
           </Carousel.Caption>
