@@ -99,7 +99,7 @@ function Projects() {
           <Carousel.Caption className='desc-carousel'>
             <h6>Agencia de Viajes</h6>
             <p>React JS - JAVA</p>
-            <Link to='https://www.crystalnails.com.uy/' target='blank'>
+            <Link to='https://github.com/agustinaBagnasco/Agencia-viajes/tree/main' target='blank'>
               <button className='btn btn-outline-dark'>Visitar</button>
             </Link>
           </Carousel.Caption>
