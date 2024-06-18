@@ -54,7 +54,7 @@ function Projects() {
           <Carousel.Caption className='desc-carousel'>
             <h6>IMAC: Importacion de Asientos Contables</h6>
             <p>HTML - CSS - JS - BOOTSTRAP</p>
-            <Link to='#' target='blank'>
+            <Link to='#'>
               <button className='btn btn-outline-dark'>En construccion</button>
             </Link>
           </Carousel.Caption>
