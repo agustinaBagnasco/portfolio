@@ -54,8 +54,8 @@ function Projects() {
           <Carousel.Caption className='desc-carousel'>
             <h6>IMAC: Importacion de Asientos Contables</h6>
             <p>HTML - CSS - JS - BOOTSTRAP</p>
-            <Link to='https://www.crystalnails.com.uy/' target='blank'>
-              <button className='btn btn-outline-dark'>Visitar</button>
+            <Link to='#' target='blank'>
+              <button className='btn btn-outline-dark'>En construccion</button>
             </Link>
           </Carousel.Caption>
         </Carousel.Item>
