@@ -1,5 +1,5 @@
 import React from 'react'
-import cv from '../img/CV-Agustina-Bagnasco.pdf'
+import cv from '../img/Agustina Bagnasco CV.pdf'
 import { Link } from 'react-router-dom'
 import Linkedin from '../assets/Linkedin.svg'
 import Wpp from '../assets/Wpp.svg'
