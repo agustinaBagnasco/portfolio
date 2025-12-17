@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+📌 Portfolio — Agustina Bagnasco
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este es mi sitio web portfolio personal. El sitio muestra información sobre mi experiencia, habilidades, proyectos destacados y formas de contacto profesional, con el objetivo de presentar mi perfil como desarrolladora web frente a potenciales empleadores, clientes o colaboraciones.
 
-## Available Scripts
+🌐 Ver demo en: https://agustinabagnasco.netlify.app/
 
-In the project directory, you can run:
+🧠 Sobre el proyecto
 
-### `npm start`
+Este sitio web funciona como portfolio online para mostrar habilidades y trabajos realizados. Incluye:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Sección “Sobre mí” con presentación personal y profesional.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Lista de proyectos con descripción y enlaces a demos/repositorios.
 
-### `npm test`
+Habilidades técnicas y stack de tecnologías dominadas.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Formulario de contacto o links a redes/profesionales.
 
-### `npm run build`
+Diseño responsive para visualización en dispositivos móviles y desktop.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Este proyecto fue ideado para presentarme ante reclutadores o como parte de un CV digital.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+📦 Tecnologías utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🚀 El sitio está construido con herramientas modernas de desarrollo web:
 
-### `npm run eject`
+HTML5
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+CSS3
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+JavaScript
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+React  
+  
+Netlify para despliegue continuo  
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+🛠️ Instalación (para desarrollo local)  
 
-## Learn More
+# Clonar repositorio
+git clone https://github.com/tu-usuario/tu-repo-portfolio.git
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Entrar al directorio
+cd tu-repo-portfolio
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Instalar dependencias
+npm install
 
-### Code Splitting
+# Levantar servidor de desarrollo
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+📌 Despliegue
 
-### Analyzing the Bundle Size
+Este proyecto está desplegado automáticamente en Netlify.
+Cada push al repositorio conectado actualiza la versión online.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+URL de producción:
+🔗 https://agustinabagnasco.netlify.app/
 
-### Making a Progressive Web App
+📍 Próximas mejoras:  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+✨ Integrar sección de blog o artículos técnicos.
 
-### Advanced Configuration
+📚 Añadir versiones en inglés/español.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+📊 Agregar estadísticas de visitas.
 
-### Deployment
+📎 Conectar con API de GitHub para listar repos dinámicamente.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
